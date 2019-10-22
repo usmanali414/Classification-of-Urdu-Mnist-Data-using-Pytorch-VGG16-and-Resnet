@@ -1,5 +1,5 @@
-#This Respository Contains the Classification Code of Urdu Mnist data using Pytorch Pretrained Vgg16 and Resnet18 model.
-##Requirenment
+# This Respository Contains the Classification Code of Urdu Mnist data using Pytorch Pretrained Vgg16 and Resnet18 model.
+## Requirenment
 GPU or CPU
 Memory = 8GB min
 Please download cropped_months folder data along with python notebook file to run the code.
